@@ -1,0 +1,3 @@
+Question: Is there a delivery charge?
+
+Answer: Delivery charges may depend on the order and delivery location. The applicable charge is shown during checkout.
